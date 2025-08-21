@@ -1,0 +1,65 @@
+# Node dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+.svelte-kit/
+.build/
+build/
+dist/
+public/build/
+
+# Deployment platforms
+.vercel/
+.netlify/
+.surge/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Test coverage and cache
+coverage/
+*.lcov
+.nyc_output/
+.cache/
+.parcel-cache/
+.turbo/
+
+# TypeScript
+*.tsbuildinfo
+
+# Package manager lockfiles
+# Only exclude if using a different lockfile (e.g., yarn or pnpm)
+# Otherwise, keep package-lock.json to ensure dependency consistency
+# yarn.lock
+# pnpm-lock.yaml
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Local-only data
+*.local
