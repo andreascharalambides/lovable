@@ -20,7 +20,7 @@ This project is a client-side SvelteKit application that transforms natural lang
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/lovable.git
+git clone https://github.com/andreascharalambides/lovable.git
 cd lovable
 
 # Install dependencies
@@ -69,7 +69,7 @@ Alternatively, the app can be deployed using platforms like **Vercel**, **Netlif
 
 ## 🎥 Demo Video
 
-Watch the 3–5 minute demo here: [Loom Video](https://www.loom.com/share/your-loom-link)
+Watch the demo here: [Loom Video](https://drive.google.com/file/d/1mAP_k3-z-GIiOZeHoCFjBNCk1Pu9DNKr/view?usp=sharing)
 
 ## ⚙️ Tech Stack
 
